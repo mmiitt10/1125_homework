@@ -1,0 +1,14 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#inputForm {
+    margin: 10px;
+}
+
+#map {
+    height: 70%; /* 地図の高さを調整 */
+    width: 100%;
+}
